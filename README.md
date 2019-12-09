@@ -1,7 +1,7 @@
 
 ### Overview
 
-The first is an OVERVIEW Entry - this is the Introduction, it explains the purpose of the blog, that it is documenting the freedom project (and what that is), and what you are writing about.
+The first entry is an OVERVIEW Entry - this is the Introduction, it explains the purpose of the blog, that it is documenting the freedom project (and what that is), and what you are writing about.
 There is _only one_ overview entry.
 
 *Context*
@@ -16,7 +16,7 @@ This blog will document the process of independently studying Robotics and (tbd)
 
 ### Daily Entries
 
-The second type are 'daily' entries. These should be completed each time you work on the Freedom Project,
+The second type of blog entries are 'daily' entries. These should be completed each time you work on the Freedom Project,
 whether you are working at school or at home, on research or revision. Doesn't matter. This documents the _process_ involved in its creation.
 Each week there will be a new file to hold the new Blog Entry you write on Freedom Friday. The first file should be called entry1.md.
 
